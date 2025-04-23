@@ -1,4 +1,4 @@
 ---
-title: Here you will see my musings
+Micah's Blog: Here you will see my musings
 ---
 
